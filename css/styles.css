@@ -32,14 +32,14 @@ body {
 
 .page-menu-list .link {
   color: #2e2f42;
-  font-family: inherit;
+
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5em;
   letter-spacing: 2%;
   text-decoration: none;
   float: left;
-  margin-left:  30px;
+  margin-left: 30px;
 }
 .page-menu-list .link:hover {
   color: #404bbf;
@@ -78,7 +78,6 @@ ul {
   text-align: center;
 }
 .order-button {
-  font-family: inherit;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5em;
@@ -96,7 +95,7 @@ ul {
 
 .page-title3 {
   color: #2e2f42;
-  font-family: inherit;
+
   font-weight: 500;
   font-size: 20px;
   line-height: 1.5em;
